@@ -17,7 +17,7 @@ Skills:  REDUX / REACT / JS / HTML / CSS
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Sabbirkhan200&show_icons=true&count_private=true)  
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Sabbirkhan200)  
+ 
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=Sabbirkhan200)  
 
