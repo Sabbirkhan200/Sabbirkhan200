@@ -7,7 +7,8 @@ Hey, Junior web developers are responsible for assisting with the creation of we
 
 Skills:  REDUX / REACT / JS / HTML / CSS
 
-- 🔭 I’m currently working on MABIAS 
+- 🔭 I’m currently working on Happydesk.net 
+- 🔭 I’m  working on MABIAS 
 - 🌱 I’m currently learning JavaScript 
 - 👯 I’m looking to collaborate on github 
 - 💬 Ask me about Web Development 
