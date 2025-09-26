@@ -1,5 +1,4 @@
-![Web Developer](https://media.licdn.com/dms/image/D4E16AQHSIxkfvUUcXQ/profile-displaybackgroundimage-shrink_350_1400/0/1676231062401?e=1681948800&v=beta&t=n8ieF-0JLA7chN3u0WFikYYu9eaM63TqB9vOiPOVjhc)
-### Hi there 👋, I'm SABBIR 
+![Web Developer]
 #### Web Developer
 
 
