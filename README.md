@@ -20,5 +20,4 @@ Skills:  REDUX / REACT / JS / HTML / CSS
  
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=Sabbirkhan200)  
-
-![Profile views](https://gpvc.arturio.dev/Sabbirkhan200)  
+Profile views
